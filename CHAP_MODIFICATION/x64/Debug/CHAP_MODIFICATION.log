@@ -1,0 +1,5 @@
+﻿  main.cpp
+B:\МИФИ - магистратура\2 семестр\Прикладная криптография\LR-1 C++\CHAP_MODIFICATION\CHAP_MODIFICATION\main.cpp(100): warning C4715: Server::registration: значение возвращается не при всех путях выполнения
+B:\МИФИ - магистратура\2 семестр\Прикладная криптография\LR-1 C++\CHAP_MODIFICATION\CHAP_MODIFICATION\main.cpp(81): warning C4715: Server::generator_N1: значение возвращается не при всех путях выполнения
+B:\МИФИ - магистратура\2 семестр\Прикладная криптография\LR-1 C++\CHAP_MODIFICATION\CHAP_MODIFICATION\main.cpp(160): warning C4715: User::generator_N2: значение возвращается не при всех путях выполнения
+  CHAP_MODIFICATION.vcxproj -> B:\МИФИ - магистратура\2 семестр\Прикладная криптография\LR-1 C++\CHAP_MODIFICATION\x64\Debug\CHAP_MODIFICATION.exe
